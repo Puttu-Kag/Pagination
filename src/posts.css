@@ -1,0 +1,7 @@
+.posts{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    gap: 0rem;
+    padding-left: 200px;
+    padding-right: 200px; 
+}

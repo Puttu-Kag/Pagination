@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import Posts from './Components/Posts';
 
 function App() {
   return (
-    <div>
-      <h1>ashdgf</h1>
+    <div className='App'>
+      <Posts />
+      
     </div>
   );
 }
